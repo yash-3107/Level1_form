@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+.parent{
+  width: 100vw;       /* Full viewport width */
+  height: 100vh;      
+  display: flex;
+  flex-direction: column;
+  justify-content:space-between;
+  align-items: center;
+}
